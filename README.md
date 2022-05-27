@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Cool Cat
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Hello word fow word
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... epoch2018@yeah.net
+I’m @Cool Cat
+interested in ...Coding
+learning ...Hello word fow word
+epoch2018@yeah.net
