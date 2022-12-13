@@ -1,6 +1,6 @@
 I’m @Cool Cat
 
-interested in ...Coding
+interested in ARKit、MediaPipe、IM、Socket...
 
 learning ...Hello world fow world
 
