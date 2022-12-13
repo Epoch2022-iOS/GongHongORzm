@@ -2,6 +2,7 @@ I’m @Cool Cat
 
 interested in ...Coding
 
-learning ...Hello word fow word
+learning ...Hello world fow world
 
-epoch2018@yeah.net
+How to contact me：
+Email：epoch2018@yeah.net
